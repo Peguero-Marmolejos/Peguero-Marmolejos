@@ -10,7 +10,7 @@ Started my career in the "Myspace" era, curating my page so that my customized p
 * 🌍  I'm based in Fargo, ND
 * 🖥️  See my portfolio at [My Github](http:////github.com/Peguero-Marmolejos)
 * ✉️  You can contact me at [ERPegueroMarmolejos@gmail.com](mailto:ERPegueroMarmolejos@gmail.com)
-* 🧠  I'm learning How to communicate better
+* 🧠  I'm learning how to better articulate my ides
 * ⚡  I know Spanish and I am learning Portuguese
 
 ### Skills
