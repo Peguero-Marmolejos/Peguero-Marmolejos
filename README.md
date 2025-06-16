@@ -8,13 +8,14 @@ Developer
 ## About Me
 - 🎓 Computer Science graduate passionate about software development
 - 💻 Currently building projects in JavaScript, React, and Java
-- 🔍 Actively seeking software developer opportunities
+- 🔍 Actively seeking AI/ML engineering and data science opportunities
 - 📍 Based in Fargo, ND (open to remote work and relocation)
 
 ## Current Focus
-- Building modern web applications with React
-- Strengthening full-stack development skills
-- Contributing to open-source projects
+- Developing machine learning models and AI applications
+- Exploring deep learning, NLP, and predictive analytics
+- Building end-to-end ML pipelines and data processing systems
+- Contributing to AI/ML open-source projects
 
 ## Let's Connect
 - LinkedIn: https://www.linkedin.com/in/peguero-marmolejos/
